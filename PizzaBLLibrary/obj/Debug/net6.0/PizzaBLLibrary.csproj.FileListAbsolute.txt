@@ -1,0 +1,17 @@
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzaBLLibrary\bin\Debug\net6.0\PizzaBLLibrary.deps.json
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzaBLLibrary\bin\Debug\net6.0\PizzaBLLibrary.dll
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzaBLLibrary\bin\Debug\net6.0\PizzaBLLibrary.pdb
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzaBLLibrary\bin\Debug\net6.0\PizzaModelLibrary.dll
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzaBLLibrary\bin\Debug\net6.0\PizzzaDALLibrary.dll
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzaBLLibrary\bin\Debug\net6.0\PizzaModelLibrary.pdb
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzaBLLibrary\bin\Debug\net6.0\PizzzaDALLibrary.pdb
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzaBLLibrary\obj\Debug\net6.0\PizzaBLLibrary.csproj.AssemblyReference.cache
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzaBLLibrary\obj\Debug\net6.0\PizzaBLLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzaBLLibrary\obj\Debug\net6.0\PizzaBLLibrary.AssemblyInfoInputs.cache
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzaBLLibrary\obj\Debug\net6.0\PizzaBLLibrary.AssemblyInfo.cs
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzaBLLibrary\obj\Debug\net6.0\PizzaBLLibrary.csproj.CoreCompileInputs.cache
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzaBLLibrary\obj\Debug\net6.0\PizzaBLLibrary.csproj.CopyComplete
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzaBLLibrary\obj\Debug\net6.0\PizzaBLLibrary.dll
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzaBLLibrary\obj\Debug\net6.0\refint\PizzaBLLibrary.dll
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzaBLLibrary\obj\Debug\net6.0\PizzaBLLibrary.pdb
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzaBLLibrary\obj\Debug\net6.0\ref\PizzaBLLibrary.dll

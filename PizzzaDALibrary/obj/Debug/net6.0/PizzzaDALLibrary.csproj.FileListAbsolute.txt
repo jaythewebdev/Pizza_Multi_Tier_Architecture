@@ -1,0 +1,15 @@
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzzaDALibrary\bin\Debug\net6.0\PizzzaDALLibrary.deps.json
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzzaDALibrary\bin\Debug\net6.0\PizzzaDALLibrary.dll
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzzaDALibrary\bin\Debug\net6.0\PizzzaDALLibrary.pdb
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzzaDALibrary\bin\Debug\net6.0\PizzaModelLibrary.dll
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzzaDALibrary\bin\Debug\net6.0\PizzaModelLibrary.pdb
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzzaDALibrary\obj\Debug\net6.0\PizzzaDALLibrary.csproj.AssemblyReference.cache
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzzaDALibrary\obj\Debug\net6.0\PizzzaDALLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzzaDALibrary\obj\Debug\net6.0\PizzzaDALLibrary.AssemblyInfoInputs.cache
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzzaDALibrary\obj\Debug\net6.0\PizzzaDALLibrary.AssemblyInfo.cs
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzzaDALibrary\obj\Debug\net6.0\PizzzaDALLibrary.csproj.CoreCompileInputs.cache
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzzaDALibrary\obj\Debug\net6.0\PizzzaDALLibrary.csproj.CopyComplete
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzzaDALibrary\obj\Debug\net6.0\PizzzaDALLibrary.dll
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzzaDALibrary\obj\Debug\net6.0\refint\PizzzaDALLibrary.dll
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzzaDALibrary\obj\Debug\net6.0\PizzzaDALLibrary.pdb
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionPizzaModelLibrary\PizzzaDALibrary\obj\Debug\net6.0\ref\PizzzaDALLibrary.dll
